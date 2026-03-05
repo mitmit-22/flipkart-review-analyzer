@@ -1,0 +1,28 @@
+/* styles.css */
+.stApp {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.stButton button {
+    width: 100%;
+}
+
+.metric-card {
+    background-color: #f0f2f6;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.sentiment-positive {
+    color: #00CC96;
+}
+
+.sentiment-negative {
+    color: #EF553B;
+}
+
+.sentiment-neutral {
+    color: #636EFA;
+}
